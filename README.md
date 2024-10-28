@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Anamika Singh Raj</h1>
 <h3 align="center">A passionate frontend developer!!</h3>
 
@@ -8,7 +7,7 @@
 
 - 📫 How to reach me **anamikasingh.tech@gmail.com**
 
-- ⚡ Fun fact **I think I'm exovert.**
+- ⚡ Fun fact **I think I'm exotrovert.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,3 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anamikasinghraj&show_icons=true&locale=en" alt="anamikasinghraj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anamikasinghraj&" alt="anamikasinghraj" /></p>
+
